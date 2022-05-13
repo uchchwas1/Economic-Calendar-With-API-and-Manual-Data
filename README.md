@@ -6,6 +6,8 @@ This is clone website of dailyfx.com. All filters avaliable and fully functional
 
  - [dailyfx](https://www.dailyfx.com/economic-calendar)
  
+## Summary
+Investors use an economic calendar to keep track of market-moving events like economic indicators and monetary policy decisions. Market-moving events, which are usually publicized or published in a report, have a high probability of impacting the financial markets.
 
 ## Features
 There are numerous types of filters available.
@@ -13,5 +15,7 @@ There are numerous types of filters available.
 - Filter By a Specific Date.
 - Filter By Timezone.
 - Filter By Countries. Multiple Countries, And single Country Can be filter.
-- Filter Using Importance Level( High, Medium, Low)
+- Filter Using Importance Level( High, Medium, Low).
+- Filter Using Seach Field.
+
 
