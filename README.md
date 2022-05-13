@@ -19,3 +19,21 @@ There are numerous types of filters available.
 - Filter Using Seach Field.
 
 
+## Screenshots
+Main page of Economic Calender.
+![MainPage Screenshot](https://github.com/uchchwas1/Economic-Calendar-With-API-and-Manual-Data/blob/main/ScreenShots/eco-cal.JPG?raw=true)
+
+Filters of Economic Calender.
+![Filters Screenshot](https://github.com/uchchwas1/Economic-Calendar-With-API-and-Manual-Data/blob/main/ScreenShots/eco-importance-filter.JPG?raw=true)
+
+Filters of Economic Calender.
+![Filters Screenshot](https://github.com/uchchwas1/Economic-Calendar-With-API-and-Manual-Data/blob/main/ScreenShots/country-filter.JPG?raw=true)
+
+Filters of Economic Calender.
+![Filters Screenshot](https://github.com/uchchwas1/Economic-Calendar-With-API-and-Manual-Data/blob/main/ScreenShots/Timezone%20filter.JPG?raw=true)
+
+Extention of data in Each row
+![Filters Screenshot](https://github.com/uchchwas1/Economic-Calendar-With-API-and-Manual-Data/blob/main/ScreenShots/Extend.JPG?raw=true)
+
+
+
